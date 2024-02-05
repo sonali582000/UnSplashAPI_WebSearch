@@ -15,12 +15,7 @@ In this application, users can perform image searches similar to Google Images. 
 
 ## Technologies Used
 
-- Database: MongoDB, Express
-- Framwork: React, Node.js, Java script
-
-## Feedback
-
-We value your feedback! If you have any suggestions, issues, or just want to share your thoughts, please reach out to us [https://aesthetic-sorbet-ce5bca.netlify.app/about](#) or through the app.
+- Frontend : React js
 
 ## Install your depency
 
